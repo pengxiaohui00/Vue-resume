@@ -43,7 +43,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/Vue-resumer/dist',
+    assetsPublicPath: '/Vue-resumer/dist/',
 
     /**
      * Source Maps
